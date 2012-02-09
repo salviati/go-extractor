@@ -4,6 +4,8 @@
 
 package extractor
 
+// #cgo pkg-config: libextractor
+//
 //#include <extractor.h>
 //#include <stdlib.h>
 //extern void addMeta(void*, char*, unsigned long, unsigned long, char*, char*, unsigned int);
